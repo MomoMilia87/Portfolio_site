@@ -6,12 +6,12 @@
 ---
 
 
-![Screenshot dell app](./images/Screenshot4.png)
-![Screenshot dell app](./images/Screenshot5.png)
-![Screenshot dell app](./images/Screenshot6.png)
-![Screenshot dell app](./images/Screenshot7.png)
-![Screenshot dell app](./images/Screenshot8.png)
-![Screenshot dell app](./images/Screenshot9.png)
+![Screenshot dell app](./images/screenshot4.png)
+![Screenshot dell app](./images/screenshot5.png)
+![Screenshot dell app](./images/screenshot6.png)
+![Screenshot dell app](./images/screenshot7.png)
+![Screenshot dell app](./images/screenshot8.png)
+![Screenshot dell app](./images/screenshot9.png)
 
 
 
